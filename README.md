@@ -1,6 +1,6 @@
 # LeagueOfLegendsEasyQuit
 
-Project, that save your life. 
+Project, that will save your life. 
 
 ## Usage
 
